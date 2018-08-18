@@ -1,0 +1,1 @@
+/Users/christhomas/Documents/emtasks/emtasks/tmp/funnel-input_base_path-jsnBV2cQ.tmp/resolvers/classic/index.js

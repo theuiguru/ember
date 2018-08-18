@@ -1,0 +1,1 @@
+{"modulePrefix":"emtasks","environment":"development","contentSecurityPolicy":{"connect-src":"'self' wss://*.firebaseapp.com"},"firebase":"https://emtasks-cfc01.firebaseapp.com/","rootURL":"/","locationType":"auto","EmberENV":{"FEATURES":{},"EXTEND_PROTOTYPES":{"Date":false}},"APP":{"name":"emtasks","version":"0.0.0+bd3cc8f5"},"exportApplicationGlobal":true}

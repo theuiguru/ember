@@ -1,0 +1,1 @@
+/Users/christhomas/Documents/emtasks/emtasks/tmp/broccoli_merge_trees-input_base_path-qRsImpNY.tmp/7/shims/firebase.js

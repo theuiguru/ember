@@ -1,0 +1,1 @@
+/Users/christhomas/Documents/emtasks/tmp/webpack_writer-output_path-35l3E8Kc.tmp/firebase.amd.js
